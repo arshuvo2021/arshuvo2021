@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/stars/arshuvo2021/arshuvo2021?style=social)](https://github.com/arshuvo2021)
 [![Github](https://img.shields.io/github/watchers/arshuvo2021/arshuvo2021?style=social)](https://github.com/arshuvo2021)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Md+Abdur+Rahman+Shuvo+%F0%9F%91%8B;Assalamu+Alaikum+Everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Abdur+Rahman+Shuvo+%F0%9F%91%8B;Assalamu+Alaikum+Everyone)](https://git.io/typing-svg)
 <br/>
 
 
