@@ -17,9 +17,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshuvo2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=dotfiles)](https://github.com/arshuvo2021)
 
-### 📊 Weekly Development Breakdown
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arshuvo2021&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@arshuvo2021)
 
 ---
 
